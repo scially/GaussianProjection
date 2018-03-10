@@ -6,9 +6,9 @@
 
 #### 程序截图
 
-![主界面](http://image.cnki.net/getimage.ashx?id=TLHC2018010040001)<br/>
-![子午线正算](http://image.cnki.net/getimage.ashx?id=TLHC2018010040002)<br/>
-![子午线反算](http://image.cnki.net/getimage.ashx?id=TLHC2018010040003)
+![主界面](http://image.cnki.net/getimage.ashx?id=TLHC2018010040001)<br/>主界面<br/>
+![子午线正算](http://image.cnki.net/getimage.ashx?id=TLHC2018010040002)<br/>子午线正算<br/>
+![子午线反算](http://image.cnki.net/getimage.ashx?id=TLHC2018010040003)<br/>子午线反算<br/>
 
 #### 具体实现思路
 
